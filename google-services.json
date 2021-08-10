@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873536964635",
+    "project_id": "drawing-ec833",
+    "storage_bucket": "drawing-ec833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873536964635:android:e10225cfe59714ba1c90be",
+        "android_client_info": {
+          "package_name": "com.app.kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873536964635-5ad4g3r475rousbd3qr82vmumnur0cum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwVbnnA3aJB9DpTjYqT9k5qLf6K_jCkHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873536964635-5ad4g3r475rousbd3qr82vmumnur0cum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
